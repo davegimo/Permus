@@ -2,7 +2,7 @@
 
 ### Abstract
 
-Blockchain related Thesis - I customized the classical approach of Blockchain and created a bartering system for small societies where each user is identified through a valid Certificate.
+Blockchain related Thesis - I customized the classical approach of Blockchain and created a bartering system for small environments where each user is identified through a valid Certificate.
 
 
 ### Thesis - Presentation
@@ -11,7 +11,7 @@ Blockchain related Thesis - I customized the classical approach of Blockchain an
 
 [You can check the Thesis here](https://github.com/davegimo/philosophers/blob/master/Relation_philosophers.pdf)
 
-# Project Members - Contacts
+### Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)  
 
 
