@@ -9,7 +9,7 @@ Blockchain related Thesis - I customized the classical approach of Blockchain an
 
 [You can check the SlideShare presentation here](https://www.slideshare.net/DavideGimondo/presentaz-157262298)
 
-[You can check the Thesis here](https://github.com/davegimo/philosophers/blob/master/Relation_philosophers.pdf)
+[You can check the Thesis here](https://github.com/davegimo/Permus/blob/master/PERMUS_.pdf)
 
 ### Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)  
